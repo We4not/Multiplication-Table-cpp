@@ -20,6 +20,7 @@ void showTable(std::vector<std::vector<int>> table, std::string start = "None")
         }
         std::cout << std::endl;
     }
+    std::cout << std::endl;
 }
 
 int main()
